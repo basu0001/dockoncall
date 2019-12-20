@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">doconcall</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register">Register</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_having_account">Already Having an Account?</string>
+    <string name="log_in">Log In</string>
+    <string name="not_having_account">Not Having an Account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="logout">Logout</string>
+    <string name="hint_email">Email Address</string>
+    <string name="contact">Mobile Number</string>
+    <string name="UID">UID</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First name</string>
+    <string name="condition">Condition Accepted Yes/No</string>
+    <string name="blood_group">Blood group</string>
+    <string name="question1">Question 1</string>
+    <string name="question2">Question 2</string>
+    <string name="question3">Question 3</string>
+    <string name="question4">Question 4</string>
+    <string name="user_status">User Status Active/Close</string>
+    <string name="Dob">DOB YYYY-MM-DD</string>
+    <string name="gender">Gender</string>
+</resources>
